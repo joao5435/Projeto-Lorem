@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+:root{
+     /* ---- Cores Primarias ---- */
+    --color-black: #000000;
+    --color-gray: #5C5C5C;
+
+     /* ---- Cores Primarias ---- */
+    --color-blue10: #1090CB1a;
+    --color-blue: #1090CB;
+
+    /* ---- Cores Secondaria ---- */
+    --color-white: #FFFFFF;
+
+
+    /* fonts */
+    --font-h1: 35px;
+    --font-h2: 30px;
+    --font-h3: 25px;
+    --font-h4: 18px;
+    --font-body: 16px;
+    --font-body2: 14px;
+
+
+    --font-family: "Poppins", sans-serif;
+
+    
+    
+}
+
